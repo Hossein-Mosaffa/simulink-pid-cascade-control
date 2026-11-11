@@ -10,14 +10,20 @@ The repository also contains an Arduino sketch that runs a PID position controll
 
 ```
 .
-├── PID.slx                                   Simulink model, saved in MATLAB R2016b
+├── PID.slx
 ├── arduino/
 │   └── pid_position_control/
-│       └── pid_position_control.ino          Arduino PID position controller
+│       └── pid_position_control.ino
 ├── docs/
-│   └── report.pdf                            Full written report
+│   └── report.pdf
 └── README.md
 ```
+
+| File | Description |
+| --- | --- |
+| `PID.slx` | Simulink model, saved in MATLAB R2016b |
+| `arduino/pid_position_control/pid_position_control.ino` | Arduino PID position controller |
+| `docs/report.pdf` | Full written report |
 
 ## Requirements
 
