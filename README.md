@@ -109,3 +109,5 @@ The model is an ideal linear system with no actuator limit, load disturbance, se
 ## Author
 
 Created for the Industrial Control course by Hossein Mosaffa.
+
+[Hossein Mosaffa's personal website](https://hossein-mosaffa.github.io)
